@@ -1,0 +1,17 @@
+{
+    "name": "jiscariot/bitrix-nws",
+    "type": "project",
+    "description": "The bitrix nws.",
+    "license": "MIT",
+    "require": {
+        "php": "^8.1"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+    },
+    "scripts": {
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
